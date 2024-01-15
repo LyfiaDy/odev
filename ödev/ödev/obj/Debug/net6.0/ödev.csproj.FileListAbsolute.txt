@@ -1,0 +1,15 @@
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ödev.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ödev.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ödev.AssemblyInfo.cs
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ödev.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ödev\ödev\bin\Debug\net6.0\ödev.exe
+C:\Users\Monster\source\repos\ödev\ödev\bin\Debug\net6.0\ödev.deps.json
+C:\Users\Monster\source\repos\ödev\ödev\bin\Debug\net6.0\ödev.runtimeconfig.json
+C:\Users\Monster\source\repos\ödev\ödev\bin\Debug\net6.0\ödev.dll
+C:\Users\Monster\source\repos\ödev\ödev\bin\Debug\net6.0\ödev.pdb
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ödev.dll
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\refint\ödev.dll
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ödev.pdb
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ödev.genruntimeconfig.cache
+C:\Users\Monster\source\repos\ödev\ödev\obj\Debug\net6.0\ref\ödev.dll
